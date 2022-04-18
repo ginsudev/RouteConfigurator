@@ -1,0 +1,10 @@
+Package: com.ginsu.routeconfigurator
+Name: RouteConfigurator
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Set preferred audio routes for different apps.
+Maintainer: Ginsu
+Author: Ginsu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Depiction: https://ginsudev.github.io/repo/depictions/routeconfigurator/index.html
